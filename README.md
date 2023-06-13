@@ -31,7 +31,7 @@ The drum website is built using the following technologies:
 
 - To use the drum website, follow these steps:
 
-- Open the website in a web browser.
+- Open the website in a web browser. [Drum Game](https://niteshmeena9672.github.io/Drum-game/)
 
 - Click on the drum buttons with your mouse to play the corresponding drum sounds.
 
